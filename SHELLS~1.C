@@ -37,6 +37,7 @@ void main()
      { printf("\t%d",array[i]);
      }
  getch();
+	
 }
 
 
